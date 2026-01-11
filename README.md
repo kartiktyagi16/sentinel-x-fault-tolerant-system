@@ -35,7 +35,10 @@ basic recovery behavior can be implemented using lightweight control logic.
 5. System state is updated and operation continues
 
 ### Architecture
-Refer to `architecture.png` for system-level design.
+System architecture follows a controller–monitor–recovery pattern
+with primary and redundant modules managed through deterministic logic.
+A detailed diagram will be added in a future iteration.
+
 
 
 ### Hardware Used
